@@ -1,0 +1,48 @@
+{
+  "clients": [
+    {
+      "name": "Joseph updated",
+      "company": "Example Company",
+      "email": "joseph@gmail.com",
+      "phone": "102013313",
+      "notes": "New note for test",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Karen",
+      "phone": 138198313,
+      "email": "karen@gmail.com",
+      "company": "Example Company"
+    },
+    {
+      "id": 3,
+      "name": "Josue",
+      "phone": 138198313,
+      "email": "josue@gmail.com",
+      "company": "Example Company"
+    },
+    {
+      "id": 4,
+      "name": "Miguel",
+      "phone": 319381983,
+      "email": "miguel@gmail.com",
+      "company": "Example Company"
+    },
+    {
+      "id": 5,
+      "name": "Pedro",
+      "phone": 1398198938,
+      "email": "pedro@gmail.com",
+      "company": "Example Company"
+    },
+    {
+      "name": "Renmy Enriquez",
+      "company": "Freelancer",
+      "email": "renmyenriquez@gmail.com",
+      "phone": "9544775243",
+      "notes": "need a new computer",
+      "id": 6
+    }
+  ]
+}
