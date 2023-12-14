@@ -9,11 +9,12 @@
       "id": 1
     },
     {
-      "id": 2,
-      "name": "Karen",
-      "phone": 138198313,
+      "name": "Karen Smith",
+      "company": "Example Company",
       "email": "karen@gmail.com",
-      "company": "Example Company"
+      "phone": "138198313",
+      "notes": "Karen needs a new desktop",
+      "id": 2
     },
     {
       "id": 3,
